@@ -1,0 +1,12 @@
+{
+  "name": "ryadom-bot",
+  "version": "1.0.0",
+  "description": "Семейный бот для списка покупок",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
